@@ -1,0 +1,991 @@
+{
+    "glucoseValues": [
+        {
+            "mgdlValue": 75.35898384862246,
+            "dateOffset": -36000
+        },
+        {
+            "mgdlValue": 72.41229516856367,
+            "dateOffset": -35700
+        },
+        {
+            "mgdlValue": 70.60768987951165,
+            "dateOffset": -35400
+        },
+        {
+            "mgdlValue": 70.0,
+            "dateOffset": -35100
+        },
+        {
+            "mgdlValue": 70.6076898795117,
+            "dateOffset": -34800
+        },
+        {
+            "mgdlValue": 72.4122951685637,
+            "dateOffset": -34500
+        },
+        {
+            "mgdlValue": 75.3589838486225,
+            "dateOffset": -34200
+        },
+        {
+            "mgdlValue": 79.35822227524092,
+            "dateOffset": -33900
+        },
+        {
+            "mgdlValue": 84.28849561253847,
+            "dateOffset": -33600
+        },
+        {
+            "mgdlValue": 90.00000000000006,
+            "dateOffset": -33300
+        },
+        {
+            "mgdlValue": 96.3191942669733,
+            "dateOffset": -33000
+        },
+        {
+            "mgdlValue": 103.05407289332283,
+            "dateOffset": -32700
+        },
+        {
+            "mgdlValue": 110.00000000000003,
+            "dateOffset": -32400
+        },
+        {
+            "mgdlValue": 116.94592710667723,
+            "dateOffset": -32100
+        },
+        {
+            "mgdlValue": 123.68080573302676,
+            "dateOffset": -31800
+        },
+        {
+            "mgdlValue": 130.0,
+            "dateOffset": -31500
+        },
+        {
+            "mgdlValue": 135.71150438746156,
+            "dateOffset": -31200
+        },
+        {
+            "mgdlValue": 140.64177772475912,
+            "dateOffset": -30900
+        },
+        {
+            "mgdlValue": 144.64101615137753,
+            "dateOffset": -30600
+        },
+        {
+            "mgdlValue": 147.58770483143633,
+            "dateOffset": -30300
+        },
+        {
+            "mgdlValue": 149.39231012048833,
+            "dateOffset": -30000
+        },
+        {
+            "mgdlValue": 150.0,
+            "dateOffset": -29700
+        },
+        {
+            "mgdlValue": 149.3923101204883,
+            "dateOffset": -29400
+        },
+        {
+            "mgdlValue": 147.5877048314363,
+            "dateOffset": -29100
+        },
+        {
+            "mgdlValue": 144.6410161513775,
+            "dateOffset": -28800
+        },
+        {
+            "mgdlValue": 140.6417777247591,
+            "dateOffset": -28500
+        },
+        {
+            "mgdlValue": 135.71150438746153,
+            "dateOffset": -28200
+        },
+        {
+            "mgdlValue": 129.99999999999994,
+            "dateOffset": -27900
+        },
+        {
+            "mgdlValue": 123.68080573302672,
+            "dateOffset": -27600
+        },
+        {
+            "mgdlValue": 116.94592710667717,
+            "dateOffset": -27300
+        },
+        {
+            "mgdlValue": 109.99999999999997,
+            "dateOffset": -27000
+        },
+        {
+            "mgdlValue": 103.05407289332277,
+            "dateOffset": -26700
+        },
+        {
+            "mgdlValue": 96.31919426697324,
+            "dateOffset": -26400
+        },
+        {
+            "mgdlValue": 90.0,
+            "dateOffset": -26100
+        },
+        {
+            "mgdlValue": 84.28849561253838,
+            "dateOffset": -25800
+        },
+        {
+            "mgdlValue": 79.35822227524085,
+            "dateOffset": -25500
+        },
+        {
+            "mgdlValue": 75.35898384862243,
+            "dateOffset": -25200
+        },
+        {
+            "mgdlValue": 72.41229516856365,
+            "dateOffset": -24900
+        },
+        {
+            "mgdlValue": 70.60768987951167,
+            "dateOffset": -24600
+        },
+        {
+            "mgdlValue": 70.0,
+            "dateOffset": -24300
+        },
+        {
+            "mgdlValue": 70.60768987951168,
+            "dateOffset": -24000
+        },
+        {
+            "mgdlValue": 72.41229516856367,
+            "dateOffset": -23700
+        },
+        {
+            "mgdlValue": 75.35898384862244,
+            "dateOffset": -23400
+        },
+        {
+            "mgdlValue": 79.35822227524092,
+            "dateOffset": -23100
+        },
+        {
+            "mgdlValue": 84.28849561253847,
+            "dateOffset": -22800
+        },
+        {
+            "mgdlValue": 90.00000000000003,
+            "dateOffset": -22500
+        },
+        {
+            "mgdlValue": 96.31919426697328,
+            "dateOffset": -22200
+        },
+        {
+            "mgdlValue": 103.05407289332281,
+            "dateOffset": -21900
+        },
+        {
+            "mgdlValue": 110.00000000000001,
+            "dateOffset": -21600
+        },
+        {
+            "mgdlValue": 116.94592710667723,
+            "dateOffset": -21300
+        },
+        {
+            "mgdlValue": 123.68080573302676,
+            "dateOffset": -21000
+        },
+        {
+            "mgdlValue": 130.0,
+            "dateOffset": -20700
+        },
+        {
+            "mgdlValue": 135.71150438746162,
+            "dateOffset": -20400
+        },
+        {
+            "mgdlValue": 140.64177772475915,
+            "dateOffset": -20100
+        },
+        {
+            "mgdlValue": 144.64101615137756,
+            "dateOffset": -19800
+        },
+        {
+            "mgdlValue": 147.58770483143635,
+            "dateOffset": -19500
+        },
+        {
+            "mgdlValue": 149.39231012048833,
+            "dateOffset": -19200
+        },
+        {
+            "mgdlValue": 150.0,
+            "dateOffset": -18900
+        },
+        {
+            "mgdlValue": 149.39231012048833,
+            "dateOffset": -18600
+        },
+        {
+            "mgdlValue": 147.58770483143633,
+            "dateOffset": -18300
+        },
+        {
+            "mgdlValue": 144.64101615137756,
+            "dateOffset": -18000
+        },
+        {
+            "mgdlValue": 140.6417777247591,
+            "dateOffset": -17700
+        },
+        {
+            "mgdlValue": 135.71150438746153,
+            "dateOffset": -17400
+        },
+        {
+            "mgdlValue": 129.99999999999997,
+            "dateOffset": -17100
+        },
+        {
+            "mgdlValue": 123.68080573302672,
+            "dateOffset": -16800
+        },
+        {
+            "mgdlValue": 116.94592710667719,
+            "dateOffset": -16500
+        },
+        {
+            "mgdlValue": 109.99999999999999,
+            "dateOffset": -16200
+        },
+        {
+            "mgdlValue": 103.05407289332278,
+            "dateOffset": -15900
+        },
+        {
+            "mgdlValue": 96.31919426697326,
+            "dateOffset": -15600
+        },
+        {
+            "mgdlValue": 90.0,
+            "dateOffset": -15300
+        },
+        {
+            "mgdlValue": 84.28849561253838,
+            "dateOffset": -15000
+        },
+        {
+            "mgdlValue": 79.35822227524085,
+            "dateOffset": -14700
+        },
+        {
+            "mgdlValue": 75.35898384862244,
+            "dateOffset": -14400
+        },
+        {
+            "mgdlValue": 72.41229516856365,
+            "dateOffset": -14100
+        },
+        {
+            "mgdlValue": 70.60768987951167,
+            "dateOffset": -13800
+        },
+        {
+            "mgdlValue": 70.0,
+            "dateOffset": -13500
+        },
+        {
+            "mgdlValue": 70.60768987951168,
+            "dateOffset": -13200
+        },
+        {
+            "mgdlValue": 72.41229516856367,
+            "dateOffset": -12900
+        },
+        {
+            "mgdlValue": 75.35898384862247,
+            "dateOffset": -12600
+        },
+        {
+            "mgdlValue": 79.35822227524089,
+            "dateOffset": -12300
+        },
+        {
+            "mgdlValue": 84.28849561253843,
+            "dateOffset": -12000
+        },
+        {
+            "mgdlValue": 90.0,
+            "dateOffset": -11700
+        },
+        {
+            "mgdlValue": 96.31919426697327,
+            "dateOffset": -11400
+        },
+        {
+            "mgdlValue": 103.0540728933228,
+            "dateOffset": -11100
+        },
+        {
+            "mgdlValue": 110.00000000000001,
+            "dateOffset": -10800
+        },
+        {
+            "mgdlValue": 116.94592710667722,
+            "dateOffset": -10500
+        },
+        {
+            "mgdlValue": 123.68080573302677,
+            "dateOffset": -10200
+        },
+        {
+            "mgdlValue": 130.00000000000003,
+            "dateOffset": -9900
+        },
+        {
+            "mgdlValue": 135.7115043874616,
+            "dateOffset": -9600
+        },
+        {
+            "mgdlValue": 140.64177772475912,
+            "dateOffset": -9300
+        },
+        {
+            "mgdlValue": 144.64101615137753,
+            "dateOffset": -9000
+        },
+        {
+            "mgdlValue": 147.58770483143633,
+            "dateOffset": -8700
+        },
+        {
+            "mgdlValue": 149.39231012048833,
+            "dateOffset": -8400
+        },
+        {
+            "mgdlValue": 150.0,
+            "dateOffset": -8100
+        },
+        {
+            "mgdlValue": 149.39231012048833,
+            "dateOffset": -7800
+        },
+        {
+            "mgdlValue": 147.58770483143633,
+            "dateOffset": -7500
+        },
+        {
+            "mgdlValue": 144.64101615137753,
+            "dateOffset": -7200
+        },
+        {
+            "mgdlValue": 140.64177772475912,
+            "dateOffset": -6900
+        },
+        {
+            "mgdlValue": 135.71150438746156,
+            "dateOffset": -6600
+        },
+        {
+            "mgdlValue": 130.0,
+            "dateOffset": -6300
+        },
+        {
+            "mgdlValue": 123.68080573302674,
+            "dateOffset": -6000
+        },
+        {
+            "mgdlValue": 116.9459271066772,
+            "dateOffset": -5700
+        },
+        {
+            "mgdlValue": 110.0,
+            "dateOffset": -5400
+        },
+        {
+            "mgdlValue": 103.05407289332277,
+            "dateOffset": -5100
+        },
+        {
+            "mgdlValue": 96.31919426697324,
+            "dateOffset": -4800
+        },
+        {
+            "mgdlValue": 90.0,
+            "dateOffset": -4500
+        },
+        {
+            "mgdlValue": 84.28849561253841,
+            "dateOffset": -4200
+        },
+        {
+            "mgdlValue": 79.35822227524088,
+            "dateOffset": -3900
+        },
+        {
+            "mgdlValue": 75.35898384862244,
+            "dateOffset": -3600
+        },
+        {
+            "mgdlValue": 72.41229516856366,
+            "dateOffset": -3300
+        },
+        {
+            "mgdlValue": 70.60768987951168,
+            "dateOffset": -3000
+        },
+        {
+            "mgdlValue": 70.0,
+            "dateOffset": -2700
+        },
+        {
+            "mgdlValue": 70.60768987951168,
+            "dateOffset": -2400
+        },
+        {
+            "mgdlValue": 72.41229516856367,
+            "dateOffset": -2100
+        },
+        {
+            "mgdlValue": 75.35898384862246,
+            "dateOffset": -1800
+        },
+        {
+            "mgdlValue": 79.35822227524088,
+            "dateOffset": -1500
+        },
+        {
+            "mgdlValue": 84.28849561253843,
+            "dateOffset": -1200
+        },
+        {
+            "mgdlValue": 90.0,
+            "dateOffset": -900
+        },
+        {
+            "mgdlValue": 96.31919426697326,
+            "dateOffset": -600
+        },
+        {
+            "mgdlValue": 103.05407289332278,
+            "dateOffset": -300
+        },
+        {
+            "mgdlValue": 110.0,
+            "dateOffset": 0
+        },
+        {
+            "mgdlValue": 116.94592710667722,
+            "dateOffset": 300
+        },
+        {
+            "mgdlValue": 123.68080573302674,
+            "dateOffset": 600
+        },
+        {
+            "mgdlValue": 130.0,
+            "dateOffset": 900
+        },
+        {
+            "mgdlValue": 135.71150438746156,
+            "dateOffset": 1200
+        },
+        {
+            "mgdlValue": 140.64177772475912,
+            "dateOffset": 1500
+        },
+        {
+            "mgdlValue": 144.64101615137753,
+            "dateOffset": 1800
+        },
+        {
+            "mgdlValue": 147.58770483143633,
+            "dateOffset": 2100
+        },
+        {
+            "mgdlValue": 149.39231012048833,
+            "dateOffset": 2400
+        },
+        {
+            "mgdlValue": 150.0,
+            "dateOffset": 2700
+        },
+        {
+            "mgdlValue": 149.39231012048833,
+            "dateOffset": 3000
+        },
+        {
+            "mgdlValue": 147.58770483143633,
+            "dateOffset": 3300
+        },
+        {
+            "mgdlValue": 144.64101615137756,
+            "dateOffset": 3600
+        },
+        {
+            "mgdlValue": 140.64177772475912,
+            "dateOffset": 3900
+        },
+        {
+            "mgdlValue": 135.7115043874616,
+            "dateOffset": 4200
+        },
+        {
+            "mgdlValue": 130.0,
+            "dateOffset": 4500
+        },
+        {
+            "mgdlValue": 123.68080573302676,
+            "dateOffset": 4800
+        },
+        {
+            "mgdlValue": 116.94592710667723,
+            "dateOffset": 5100
+        },
+        {
+            "mgdlValue": 110.0,
+            "dateOffset": 5400
+        },
+        {
+            "mgdlValue": 103.0540728933228,
+            "dateOffset": 5700
+        },
+        {
+            "mgdlValue": 96.31919426697326,
+            "dateOffset": 6000
+        },
+        {
+            "mgdlValue": 90.0,
+            "dateOffset": 6300
+        },
+        {
+            "mgdlValue": 84.28849561253843,
+            "dateOffset": 6600
+        },
+        {
+            "mgdlValue": 79.35822227524088,
+            "dateOffset": 6900
+        },
+        {
+            "mgdlValue": 75.35898384862247,
+            "dateOffset": 7200
+        },
+        {
+            "mgdlValue": 72.41229516856367,
+            "dateOffset": 7500
+        },
+        {
+            "mgdlValue": 70.60768987951168,
+            "dateOffset": 7800
+        },
+        {
+            "mgdlValue": 70.0,
+            "dateOffset": 8100
+        },
+        {
+            "mgdlValue": 70.60768987951167,
+            "dateOffset": 8400
+        },
+        {
+            "mgdlValue": 72.41229516856366,
+            "dateOffset": 8700
+        },
+        {
+            "mgdlValue": 75.35898384862246,
+            "dateOffset": 9000
+        },
+        {
+            "mgdlValue": 79.35822227524088,
+            "dateOffset": 9300
+        },
+        {
+            "mgdlValue": 84.28849561253841,
+            "dateOffset": 9600
+        },
+        {
+            "mgdlValue": 89.99999999999999,
+            "dateOffset": 9900
+        },
+        {
+            "mgdlValue": 96.31919426697323,
+            "dateOffset": 10200
+        },
+        {
+            "mgdlValue": 103.05407289332278,
+            "dateOffset": 10500
+        },
+        {
+            "mgdlValue": 109.99999999999999,
+            "dateOffset": 10800
+        },
+        {
+            "mgdlValue": 116.9459271066772,
+            "dateOffset": 11100
+        },
+        {
+            "mgdlValue": 123.68080573302673,
+            "dateOffset": 11400
+        },
+        {
+            "mgdlValue": 130.0,
+            "dateOffset": 11700
+        },
+        {
+            "mgdlValue": 135.71150438746156,
+            "dateOffset": 12000
+        },
+        {
+            "mgdlValue": 140.64177772475912,
+            "dateOffset": 12300
+        },
+        {
+            "mgdlValue": 144.64101615137753,
+            "dateOffset": 12600
+        },
+        {
+            "mgdlValue": 147.58770483143633,
+            "dateOffset": 12900
+        },
+        {
+            "mgdlValue": 149.39231012048833,
+            "dateOffset": 13200
+        },
+        {
+            "mgdlValue": 150.0,
+            "dateOffset": 13500
+        },
+        {
+            "mgdlValue": 149.39231012048833,
+            "dateOffset": 13800
+        },
+        {
+            "mgdlValue": 147.58770483143635,
+            "dateOffset": 14100
+        },
+        {
+            "mgdlValue": 144.64101615137756,
+            "dateOffset": 14400
+        },
+        {
+            "mgdlValue": 140.64177772475915,
+            "dateOffset": 14700
+        },
+        {
+            "mgdlValue": 135.71150438746162,
+            "dateOffset": 15000
+        },
+        {
+            "mgdlValue": 130.0,
+            "dateOffset": 15300
+        },
+        {
+            "mgdlValue": 123.68080573302674,
+            "dateOffset": 15600
+        },
+        {
+            "mgdlValue": 116.94592710667722,
+            "dateOffset": 15900
+        },
+        {
+            "mgdlValue": 110.00000000000001,
+            "dateOffset": 16200
+        },
+        {
+            "mgdlValue": 103.05407289332281,
+            "dateOffset": 16500
+        },
+        {
+            "mgdlValue": 96.31919426697328,
+            "dateOffset": 16800
+        },
+        {
+            "mgdlValue": 90.00000000000003,
+            "dateOffset": 17100
+        },
+        {
+            "mgdlValue": 84.28849561253847,
+            "dateOffset": 17400
+        },
+        {
+            "mgdlValue": 79.35822227524092,
+            "dateOffset": 17700
+        },
+        {
+            "mgdlValue": 75.35898384862244,
+            "dateOffset": 18000
+        },
+        {
+            "mgdlValue": 72.41229516856366,
+            "dateOffset": 18300
+        },
+        {
+            "mgdlValue": 70.60768987951168,
+            "dateOffset": 18600
+        },
+        {
+            "mgdlValue": 70.0,
+            "dateOffset": 18900
+        },
+        {
+            "mgdlValue": 70.60768987951167,
+            "dateOffset": 19200
+        },
+        {
+            "mgdlValue": 72.41229516856365,
+            "dateOffset": 19500
+        },
+        {
+            "mgdlValue": 75.35898384862244,
+            "dateOffset": 19800
+        },
+        {
+            "mgdlValue": 79.35822227524085,
+            "dateOffset": 20100
+        },
+        {
+            "mgdlValue": 84.28849561253838,
+            "dateOffset": 20400
+        },
+        {
+            "mgdlValue": 90.0,
+            "dateOffset": 20700
+        },
+        {
+            "mgdlValue": 96.31919426697324,
+            "dateOffset": 21000
+        },
+        {
+            "mgdlValue": 103.05407289332277,
+            "dateOffset": 21300
+        },
+        {
+            "mgdlValue": 109.99999999999999,
+            "dateOffset": 21600
+        },
+        {
+            "mgdlValue": 116.94592710667719,
+            "dateOffset": 21900
+        },
+        {
+            "mgdlValue": 123.68080573302672,
+            "dateOffset": 22200
+        },
+        {
+            "mgdlValue": 129.99999999999997,
+            "dateOffset": 22500
+        },
+        {
+            "mgdlValue": 135.71150438746153,
+            "dateOffset": 22800
+        },
+        {
+            "mgdlValue": 140.6417777247591,
+            "dateOffset": 23100
+        },
+        {
+            "mgdlValue": 144.64101615137756,
+            "dateOffset": 23400
+        },
+        {
+            "mgdlValue": 147.58770483143633,
+            "dateOffset": 23700
+        },
+        {
+            "mgdlValue": 149.39231012048833,
+            "dateOffset": 24000
+        },
+        {
+            "mgdlValue": 150.0,
+            "dateOffset": 24300
+        },
+        {
+            "mgdlValue": 149.39231012048833,
+            "dateOffset": 24600
+        },
+        {
+            "mgdlValue": 147.58770483143635,
+            "dateOffset": 24900
+        },
+        {
+            "mgdlValue": 144.64101615137758,
+            "dateOffset": 25200
+        },
+        {
+            "mgdlValue": 140.64177772475915,
+            "dateOffset": 25500
+        },
+        {
+            "mgdlValue": 135.71150438746162,
+            "dateOffset": 25800
+        },
+        {
+            "mgdlValue": 130.0,
+            "dateOffset": 26100
+        },
+        {
+            "mgdlValue": 123.68080573302676,
+            "dateOffset": 26400
+        },
+        {
+            "mgdlValue": 116.94592710667723,
+            "dateOffset": 26700
+        },
+        {
+            "mgdlValue": 110.00000000000003,
+            "dateOffset": 27000
+        },
+        {
+            "mgdlValue": 103.05407289332283,
+            "dateOffset": 27300
+        },
+        {
+            "mgdlValue": 96.31919426697328,
+            "dateOffset": 27600
+        },
+        {
+            "mgdlValue": 90.00000000000004,
+            "dateOffset": 27900
+        },
+        {
+            "mgdlValue": 84.28849561253847,
+            "dateOffset": 28200
+        },
+        {
+            "mgdlValue": 79.35822227524092,
+            "dateOffset": 28500
+        },
+        {
+            "mgdlValue": 75.3589838486225,
+            "dateOffset": 28800
+        },
+        {
+            "mgdlValue": 72.4122951685637,
+            "dateOffset": 29100
+        },
+        {
+            "mgdlValue": 70.6076898795117,
+            "dateOffset": 29400
+        },
+        {
+            "mgdlValue": 70.0,
+            "dateOffset": 29700
+        },
+        {
+            "mgdlValue": 70.60768987951167,
+            "dateOffset": 30000
+        },
+        {
+            "mgdlValue": 72.41229516856367,
+            "dateOffset": 30300
+        },
+        {
+            "mgdlValue": 75.35898384862247,
+            "dateOffset": 30600
+        },
+        {
+            "mgdlValue": 79.35822227524088,
+            "dateOffset": 30900
+        },
+        {
+            "mgdlValue": 84.28849561253843,
+            "dateOffset": 31200
+        },
+        {
+            "mgdlValue": 90.0,
+            "dateOffset": 31500
+        },
+        {
+            "mgdlValue": 96.31919426697324,
+            "dateOffset": 31800
+        },
+        {
+            "mgdlValue": 103.05407289332277,
+            "dateOffset": 32100
+        },
+        {
+            "mgdlValue": 109.99999999999997,
+            "dateOffset": 32400
+        },
+        {
+            "mgdlValue": 116.94592710667717,
+            "dateOffset": 32700
+        },
+        {
+            "mgdlValue": 123.6808057330267,
+            "dateOffset": 33000
+        },
+        {
+            "mgdlValue": 129.99999999999994,
+            "dateOffset": 33300
+        },
+        {
+            "mgdlValue": 135.71150438746153,
+            "dateOffset": 33600
+        },
+        {
+            "mgdlValue": 140.64177772475907,
+            "dateOffset": 33900
+        },
+        {
+            "mgdlValue": 144.6410161513775,
+            "dateOffset": 34200
+        },
+        {
+            "mgdlValue": 147.5877048314363,
+            "dateOffset": 34500
+        },
+        {
+            "mgdlValue": 149.3923101204883,
+            "dateOffset": 34800
+        },
+        {
+            "mgdlValue": 150.0,
+            "dateOffset": 35100
+        },
+        {
+            "mgdlValue": 149.39231012048833,
+            "dateOffset": 35400
+        },
+        {
+            "mgdlValue": 147.58770483143633,
+            "dateOffset": 35700
+        }
+    ],
+    "basalDoses": [
+        {
+            "unitsPerHourValue": 1.0,
+            "dateOffset": -1800.0,
+            "duration": 1800.0
+        }
+    ],
+    "bolusDoses": [
+        {
+            "unitsValue": 3.0,
+            "dateOffset": -900,
+            "deliveryDuration": 120
+        }
+    ],
+    "carbEntries": [
+        {
+            "gramValue": 30,
+            "dateOffset": -300,
+            "absorptionTime": 10800
+        },
+        {
+            "gramValue": 15,
+            "dateOffset": 900,
+            "absorptionTime": 7200,
+            "enteredAtOffset": -900
+        }
+    ]
+}

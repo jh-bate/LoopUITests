@@ -1,0 +1,5767 @@
+{
+    "glucoseValues": [
+        {
+            "mgdlValue": 110,
+            "dateOffset": -216000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -215700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -215400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -215100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -214800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -214500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -214200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -213900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -213600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -213300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -213000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -212700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -212400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -212100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -211800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -211500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -211200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -210900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -210600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -210300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -210000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -209700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -209400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -209100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -208800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -208500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -208200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -207900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -207600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -207300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -207000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -206700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -206400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -206100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -205800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -205500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -205200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -204900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -204600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -204300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -204000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -203700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -203400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -203100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -202800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -202500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -202200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -201900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -201600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -201300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -201000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -200700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -200400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -200100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -199800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -199500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -199200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -198900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -198600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -198300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -198000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -197700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -197400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -197100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -196800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -196500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -196200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -195900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -195600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -195300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -195000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -194700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -194400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -194100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -193800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -193500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -193200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -192900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -192600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -192300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -192000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -191700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -191400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -191100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -190800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -190500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -190200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -189900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -189600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -189300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -189000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -188700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -188400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -188100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -187800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -187500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -187200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -186900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -186600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -186300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -186000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -185700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -185400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -185100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -184800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -184500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -184200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -183900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -183600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -183300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -183000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -182700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -182400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -182100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -181800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -181500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -181200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -180900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -180600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -180300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -180000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -179700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -179400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -179100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -178800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -178500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -178200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -177900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -177600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -177300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -177000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -176700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -176400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -176100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -175800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -175500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -175200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -174900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -174600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -174300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -174000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -173700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -173400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -173100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -172800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -172500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -172200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -171900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -171600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -171300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -171000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -170700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -170400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -170100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -169800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -169500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -169200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -168900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -168600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -168300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -168000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -167700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -167400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -167100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -166800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -166500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -166200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -165900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -165600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -165300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -165000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -164700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -164400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -164100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -163800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -163500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -163200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -162900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -162600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -162300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -162000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -161700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -161400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -161100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -160800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -160500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -160200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -159900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -159600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -159300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -159000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -158700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -158400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -158100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -157800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -157500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -157200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -156900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -156600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -156300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -156000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -155700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -155400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -155100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -154800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -154500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -154200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -153900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -153600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -153300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -153000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -152700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -152400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -152100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -151800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -151500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -151200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -150900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -150600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -150300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -150000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -149700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -149400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -149100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -148800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -148500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -148200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -147900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -147600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -147300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -147000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -146700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -146400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -146100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -145800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -145500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -145200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -144900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -144600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -144300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -144000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -143700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -143400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -143100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -142800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -142500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -142200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -141900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -141600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -141300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -141000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -140700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -140400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -140100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -139800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -139500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -139200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -138900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -138600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -138300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -138000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -137700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -137400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -137100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -136800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -136500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -136200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -135900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -135600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -135300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -135000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -134700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -134400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -134100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -133800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -133500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -133200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -132900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -132600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -132300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -132000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -131700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -131400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -131100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -130800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -130500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -130200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -129900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -129600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -129300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -129000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -128700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -128400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -128100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -127800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -127500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -127200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -126900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -126600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -126300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -126000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -125700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -125400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -125100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -124800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -124500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -124200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -123900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -123600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -123300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -123000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -122700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -122400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -122100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -121800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -121500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -121200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -120900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -120600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -120300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -120000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -119700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -119400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -119100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -118800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -118500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -118200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -117900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -117600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -117300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -117000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -116700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -116400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -116100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -115800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -115500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -115200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -114900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -114600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -114300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -114000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -113700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -113400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -113100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -112800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -112500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -112200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -111900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -111600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -111300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -111000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -110700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -110400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -110100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -109800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -109500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -109200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -108900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -108600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -108300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -108000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -107700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -107400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -107100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -106800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -106500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -106200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -105900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -105600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -105300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -105000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -104700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -104400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -104100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -103800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -103500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -103200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -102900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -102600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -102300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -102000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -101700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -101400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -101100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -100800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -100500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -100200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -99900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -99600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -99300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -99000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -98700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -98400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -98100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -97800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -97500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -97200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -96900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -96600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -96300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -96000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -95700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -95400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -95100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -94800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -94500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -94200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -93900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -93600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -93300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -93000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -92700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -92400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -92100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -91800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -91500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -91200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -90900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -90600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -90300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -90000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -89700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -89400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -89100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -88800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -88500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -88200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -87900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -87600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -87300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -87000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -86700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -86400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -86100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -85800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -85500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -85200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -84900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -84600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -84300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -84000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -83700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -83400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -83100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -82800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -82500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -82200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -81900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -81600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -81300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -81000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -80700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -80400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -80100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -79800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -79500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -79200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -78900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -78600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -78300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -78000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -77700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -77400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -77100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -76800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -76500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -76200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -75900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -75600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -75300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -75000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -74700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -74400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -74100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -73800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -73500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -73200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -72900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -72600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -72300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -72000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -71700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -71400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -71100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -70800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -70500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -70200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -69900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -69600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -69300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -69000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -68700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -68400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -68100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -67800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -67500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -67200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -66900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -66600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -66300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -66000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -65700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -65400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -65100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -64800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -64500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -64200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -63900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -63600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -63300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -63000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -62700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -62400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -62100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -61800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -61500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -61200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -60900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -60600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -60300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -60000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -59700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -59400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -59100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -58800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -58500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -58200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -57900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -57600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -57300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -57000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -56700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -56400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -56100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -55800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -55500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -55200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -54900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -54600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -54300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -54000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -53700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -53400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -53100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -52800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -52500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -52200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -51900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -51600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -51300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -51000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -50700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -50400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -50100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -49800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -49500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -49200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -48900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -48600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -48300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -48000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -47700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -47400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -47100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -46800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -46500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -46200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -45900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -45600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -45300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -45000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -44700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -44400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -44100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -43800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -43500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -43200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -42900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -42600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -42300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -42000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -41700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -41400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -41100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -40800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -40500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -40200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -39900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -39600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -39300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -39000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -38700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -38400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -38100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -37800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -37500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -37200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -36900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -36600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -36300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -36000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -35700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -35400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -35100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -34800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -34500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -34200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -33900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -33600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -33300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -33000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -32700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -32400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -32100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -31800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -31500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -31200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -30900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -30600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -30300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -30000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -29700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -29400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -29100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -28800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -28500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -28200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -27900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -27600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -27300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -27000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -26700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -26400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -26100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -25800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -25500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -25200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -24900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -24600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -24300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -24000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -23700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -23400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -23100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -22800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -22500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -22200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -21900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -21600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -21300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -21000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -20700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -20400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -20100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -19800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -19500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -19200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -18900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -18600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -18300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -18000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -17700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -17400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -17100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -16800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -16500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -16200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -15900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -15600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -15300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -15000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -14700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -14400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -14100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -13800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -13500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -13200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -12900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -12600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -12300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -12000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -11700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -11400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -11100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -10800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -10500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -10200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -9900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -9600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -9300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -9000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -8700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -8400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -8100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -7800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -7500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -7200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -6900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -6600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -6300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -6000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -5700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -5400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -5100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -4800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -4500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -4200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -3900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -3600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -3300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -3000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -2700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -2400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -2100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -1800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -1500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -1200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": -300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 0
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 1200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 1500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 1800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 2100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 2400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 2700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 3000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 3300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 3600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 3900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 4200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 4500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 4800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 5100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 5400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 5700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 6000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 6300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 6600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 6900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 7200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 7500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 7800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 8100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 8400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 8700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 9000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 9300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 9600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 9900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 10200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 10500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 10800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 11100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 11400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 11700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 12000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 12300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 12600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 12900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 13200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 13500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 13800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 14100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 14400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 14700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 15000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 15300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 15600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 15900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 16200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 16500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 16800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 17100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 17400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 17700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 18000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 18300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 18600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 18900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 19200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 19500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 19800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 20100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 20400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 20700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 21000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 21300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 21600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 21900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 22200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 22500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 22800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 23100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 23400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 23700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 24000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 24300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 24600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 24900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 25200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 25500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 25800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 26100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 26400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 26700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 27000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 27300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 27600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 27900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 28200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 28500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 28800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 29100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 29400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 29700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 30000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 30300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 30600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 30900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 31200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 31500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 31800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 32100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 32400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 32700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 33000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 33300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 33600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 33900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 34200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 34500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 34800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 35100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 35400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 35700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 36000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 36300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 36600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 36900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 37200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 37500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 37800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 38100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 38400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 38700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 39000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 39300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 39600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 39900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 40200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 40500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 40800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 41100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 41400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 41700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 42000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 42300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 42600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 42900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 43200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 43500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 43800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 44100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 44400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 44700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 45000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 45300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 45600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 45900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 46200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 46500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 46800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 47100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 47400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 47700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 48000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 48300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 48600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 48900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 49200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 49500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 49800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 50100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 50400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 50700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 51000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 51300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 51600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 51900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 52200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 52500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 52800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 53100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 53400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 53700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 54000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 54300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 54600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 54900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 55200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 55500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 55800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 56100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 56400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 56700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 57000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 57300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 57600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 57900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 58200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 58500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 58800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 59100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 59400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 59700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 60000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 60300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 60600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 60900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 61200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 61500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 61800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 62100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 62400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 62700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 63000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 63300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 63600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 63900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 64200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 64500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 64800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 65100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 65400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 65700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 66000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 66300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 66600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 66900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 67200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 67500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 67800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 68100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 68400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 68700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 69000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 69300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 69600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 69900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 70200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 70500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 70800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 71100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 71400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 71700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 72000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 72300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 72600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 72900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 73200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 73500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 73800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 74100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 74400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 74700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 75000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 75300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 75600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 75900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 76200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 76500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 76800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 77100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 77400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 77700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 78000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 78300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 78600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 78900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 79200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 79500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 79800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 80100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 80400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 80700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 81000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 81300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 81600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 81900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 82200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 82500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 82800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 83100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 83400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 83700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 84000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 84300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 84600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 84900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 85200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 85500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 85800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 86100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 86400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 86700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 87000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 87300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 87600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 87900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 88200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 88500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 88800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 89100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 89400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 89700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 90000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 90300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 90600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 90900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 91200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 91500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 91800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 92100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 92400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 92700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 93000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 93300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 93600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 93900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 94200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 94500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 94800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 95100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 95400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 95700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 96000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 96300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 96600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 96900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 97200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 97500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 97800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 98100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 98400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 98700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 99000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 99300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 99600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 99900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 100200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 100500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 100800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 101100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 101400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 101700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 102000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 102300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 102600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 102900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 103200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 103500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 103800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 104100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 104400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 104700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 105000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 105300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 105600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 105900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 106200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 106500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 106800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 107100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 107400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 107700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 108000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 108300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 108600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 108900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 109200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 109500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 109800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 110100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 110400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 110700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 111000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 111300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 111600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 111900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 112200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 112500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 112800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 113100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 113400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 113700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 114000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 114300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 114600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 114900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 115200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 115500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 115800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 116100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 116400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 116700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 117000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 117300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 117600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 117900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 118200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 118500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 118800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 119100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 119400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 119700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 120000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 120300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 120600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 120900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 121200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 121500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 121800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 122100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 122400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 122700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 123000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 123300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 123600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 123900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 124200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 124500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 124800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 125100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 125400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 125700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 126000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 126300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 126600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 126900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 127200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 127500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 127800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 128100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 128400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 128700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 129000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 129300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 129600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 129900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 130200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 130500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 130800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 131100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 131400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 131700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 132000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 132300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 132600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 132900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 133200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 133500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 133800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 134100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 134400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 134700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 135000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 135300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 135600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 135900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 136200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 136500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 136800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 137100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 137400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 137700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 138000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 138300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 138600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 138900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 139200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 139500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 139800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 140100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 140400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 140700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 141000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 141300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 141600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 141900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 142200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 142500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 142800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 143100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 143400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 143700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 144000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 144300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 144600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 144900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 145200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 145500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 145800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 146100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 146400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 146700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 147000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 147300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 147600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 147900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 148200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 148500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 148800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 149100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 149400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 149700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 150000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 150300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 150600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 150900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 151200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 151500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 151800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 152100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 152400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 152700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 153000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 153300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 153600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 153900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 154200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 154500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 154800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 155100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 155400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 155700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 156000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 156300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 156600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 156900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 157200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 157500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 157800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 158100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 158400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 158700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 159000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 159300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 159600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 159900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 160200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 160500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 160800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 161100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 161400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 161700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 162000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 162300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 162600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 162900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 163200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 163500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 163800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 164100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 164400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 164700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 165000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 165300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 165600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 165900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 166200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 166500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 166800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 167100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 167400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 167700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 168000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 168300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 168600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 168900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 169200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 169500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 169800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 170100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 170400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 170700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 171000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 171300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 171600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 171900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 172200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 172500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 172800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 173100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 173400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 173700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 174000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 174300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 174600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 174900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 175200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 175500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 175800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 176100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 176400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 176700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 177000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 177300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 177600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 177900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 178200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 178500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 178800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 179100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 179400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 179700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 180000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 180300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 180600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 180900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 181200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 181500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 181800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 182100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 182400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 182700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 183000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 183300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 183600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 183900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 184200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 184500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 184800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 185100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 185400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 185700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 186000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 186300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 186600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 186900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 187200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 187500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 187800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 188100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 188400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 188700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 189000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 189300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 189600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 189900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 190200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 190500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 190800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 191100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 191400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 191700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 192000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 192300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 192600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 192900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 193200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 193500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 193800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 194100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 194400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 194700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 195000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 195300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 195600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 195900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 196200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 196500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 196800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 197100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 197400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 197700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 198000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 198300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 198600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 198900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 199200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 199500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 199800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 200100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 200400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 200700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 201000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 201300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 201600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 201900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 202200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 202500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 202800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 203100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 203400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 203700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 204000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 204300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 204600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 204900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 205200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 205500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 205800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 206100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 206400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 206700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 207000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 207300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 207600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 207900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 208200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 208500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 208800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 209100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 209400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 209700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 210000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 210300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 210600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 210900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 211200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 211500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 211800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 212100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 212400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 212700
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 213000
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 213300
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 213600
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 213900
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 214200
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 214500
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 214800
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 215100
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 215400
+        },
+        {
+            "mgdlValue": 110,
+            "dateOffset": 215700
+        }
+    ],
+    "basalDoses": [],
+    "bolusDoses": [],
+    "carbEntries": []
+}

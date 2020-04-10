@@ -1,70 +1,131 @@
-const { setup, assert, match } = require('../../src/loopUI');
+const { loop } = require('../../src/index');
 
 describe('smoke test', () => {
     beforeAll(async () => {
-        await setup.lauchLoop();
+        await loop.Launch();
     });
-    describe('simulators', () => {
-        it('should set closed loop', async () => {
-            await setup.setClosedLoop();
+    describe('home screen', () => {
+        it('has Active Carbohydrates section', async () => {
+            await loop.screens.home.OpenActiveCarbohydratesChart();
+            await loop.screens.home.CloseChart();
         });
-        it('should add simulator pump', async () => {
-            await setup.addSimulatorPump();
+        it('has Active Insulin section', async () => {
+            await loop.screens.home.OpenActiveInsulinChart();
+            await loop.screens.home.CloseChart();
         });
-        it('should configure simulator pump', async () => {
-            await setup.simulatorPumpBasalSettings('0.1 U/hr');
-            await setup.simulatorPumpDeliveryLimitsSettings('1.0', '10.0');
+        it('has Insulin Delivery section', async () => {
+            await loop.screens.home.OpenInsulinDeliveryChart();
+            await loop.screens.home.CloseChart();
         });
-        it('should add simulator CGM', async () => {
-            await setup.addSimulatorCGM();
+        it('has Glucose section', async () => {
+            await loop.screens.home.OpenGlucoseChart();
+            await loop.screens.home.CloseChart();
         });
-        it('should configure simulator CGM', async () => {
-            await setup.addSimulatorCGMModel(setup.CGMSimulatorModel.Constant, ['100']);
-            await setup.addSimulatorCGMEffect(setup.CGMSimulatorEffects.GlucoseNoise);
+        it('has Loop icon', async () => {
+            await loop.screens.home.ExpectLoopNotYetRun();
         });
-    });
-    describe('charts', () => {
-        it('should have Active Carbohydrates section', async () => {
-            assert.isAccessibilityText('Active Carbohydrates');
-        });
-        it('should be able to drill into Active Carbohydrates section', async () => {
-            await match.accessibilityText('Active Carbohydrates').tap();
-            await assert.isAccessibilityHeader('Carbohydrates');
-            //await device.takeScreenshot('Active Carbohydrates');
-            await match.accessibilityBackButton('Status').tap();
-        });
-        it('should have Active Insulin section', async () => {
-            await assert.isAccessibilityText('Active Insulin');
-        });
-        it('should have Insulin Delivery section', async () => {
-            await assert.isAccessibilityText('Insulin Delivery');
-        });
-        it('should have Glucose section', async () => {
-            await assert.isAccessibilityText('Glucose');
-        });
-        it('should be able to drill into Glucose section', async () => {
-            await match.accessibilityText('Glucose').tap();
-            await assert.isAccessibilityHeader('Predicted Glucose');
-            //await device.takeScreenshot('Glucose');
-            await match.accessibilityBackButton('Status').tap();
+        it('has Loop icon has alert when not setup', async () => {
+            await loop.screens.home.ExpectLoopStatusGlucoseDataAlert();
         });
     });
-    describe('menu items', () => {
-        it('should include Add Meal option', async () => {
-            await assert.isAccessibilityButton('Add Meal');
+    describe('settings', () => {
+        beforeAll(async () => {
+            await loop.screens.settings.Open();
         });
-        it('should be able to add a meal', async () => {
-            await setup.addMeal('5');
+        afterAll(async () => {
+            await loop.screens.settings.Close();
         });
-        it('should include Bolus option', async () => {
-            assert.isAccessibilityButton('Bolus');
+        describe('general', () => {
+            it('set to closed loop', async () => {
+                await loop.screens.settings.SetClosedLoop();
+            });
+            it('set to open loop', async () => {
+                await loop.screens.settings.SetOpenLoop();
+            });
+            it('open issue report', async () => {
+                await loop.screens.settings.OpenIssueReport();
+            });
+            it('close issue report', async () => {
+                await loop.screens.settings.CloseIssueReport();
+            });
         });
-        it.skip('should be to do a bolus', async () => {
-            await setup.addBolus('1');
+        describe('cgm', () => {
+            it('can be added', async () => {
+                await loop.screens.settings.AddCGMSimulator();
+            });
+            it('can configure simulator', async () => {
+                await loop.screens.settings.SetCGMSimulatorSettings(loop.settings.default.CGMSimulatorSettings);
+            });
         });
-        it('should include Settings option', async () => {
-            assert.isAccessibilityButton('Settings');
+        describe('pump', () => {
+            it('can be added', async () => {
+                await loop.screens.settings.AddPumpSimulator();
+            });
+            it('set suspend threshold', async () => {
+                await loop.screens.settings.SetSuspendThreshold(loop.settings.default.SuspendThreshold);
+            });
+            it('set basal rates', async () => {
+                await loop.screens.settings.SetBasalRates(loop.settings.default.BasalRates);
+            });
+            it('set delivery limits', async () => {
+                await loop.screens.settings.SetDeliveryLimits(loop.settings.default.DeliveryLimits);
+            });
+            it('set insulin model', async () => {
+                await loop.screens.settings.SetInsulinModel(loop.settings.default.InsulinModel);
+            });
+            it('set carb ratios', async () => {
+                await loop.screens.settings.SetCarbRatios(loop.settings.default.CarbRatios);
+            });
+            it('set insulin sensitivites', async () => {
+                await loop.screens.settings.SetInsulinSensitivities(loop.settings.default.InsulinSensitivities);
+            });
+            it('set correction range', async () => {
+                await loop.screens.settings.SetCorrectionRanges([{ time: '12:00 AM', min: '150', max: '170' }]);
+            });
+        });
+    });
+    describe('carb entry', () => {
+        it('open dialog', async () => {
+            await loop.screens.carbEntry.Open();
+        });
+        it('cancel dialog', async () => {
+            await loop.screens.carbEntry.Cancel();
+        });
+        it('set carbs and save without a bolus', async () => {
+            await loop.screens.carbEntry.Open();
+            await loop.screens.carbEntry.SetCarbs('30');
+            await loop.screens.carbEntry.ContinueToBolus();
+            await loop.screens.carbEntry.SaveWithoutBolus();
+        });
+    });
+    //TODO: skipped until we can interact
+    describe.skip('bolus', () => {
+
+        it('open dialog', async () => {
+            await loop.screens.bolus.Open();
+        });
+        it('cancel dialog', async () => {
+            await loop.screens.bolus.Cancel();
+        });
+    });
+    describe.skip('cleanup', () => {
+        it('open settings', async () => {
+            await loop.screens.settings.Open();
+        });
+        it('remove pump data', async () => {
+            await loop.screens.settings.RemovePumpData();
+        });
+        it('remove pump', async () => {
+            await loop.screens.settings.RemovePump();
+        });
+        it('remove CGM data', async () => {
+            await loop.screens.settings.RemoveCGMData();
+        });
+        it('remove CGM', async () => {
+            await loop.screens.settings.RemoveCGM();
+        });
+        it('close settings', async () => {
+            await loop.screens.settings.Close();
         });
     });
 });
-

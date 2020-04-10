@@ -1,9 +1,4 @@
-
-
-# build output for Loop.app
-build/
-
-node_modules/
-
-# test artifacts
-artifacts/
+/artifacts
+/build
+/node_modules
+/e2e/wip
