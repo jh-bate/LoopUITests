@@ -1,14 +1,16 @@
 const match = require('./match');
-const text = require('./text');
 
 class OverridesScreen {
+    constructor(language) {
+        this.language = language;
+    }
     /**
      * @example await overrides.Open();
      */
     async Open() {
         try {
             //assume we are starting from the open screen
-            await match.accessible.Button(text.overridesScreen.WorkoutTargets).tap();
+            await match.accessible.Button(this.language.overridesScreen.WorkoutTargets).tap();
         } catch (err) { } //catch and continue
     }
     /**
@@ -30,19 +32,19 @@ class OverridesScreen {
         await this.EditHeaderButton().tap();
     }
     CustomPresetHeader() {
-        return match.accessible.Header(text.overridesScreen.CustomPreset);
+        return match.accessible.Header(this.language.overridesScreen.CustomPreset);
     }
     CancelHeaderButton() {
-        return match.accessible.ButtonBarButton(text.general.Cancel);
+        return match.accessible.ButtonBarButton(this.language.general.Cancel);
     }
     EditHeaderButton() {
-        return match.accessible.ButtonBarButton(text.general.Edit);
+        return match.accessible.ButtonBarButton(this.language.general.Edit);
     }
     AddHeaderButton() {
-        return match.accessible.ButtonBarButton(text.general.Add);
+        return match.accessible.ButtonBarButton(this.language.general.Add);
     }
     AddPresetMessage() {
-        return match.accessible.Label(text.overridesScreen.AddPresetMessage);
+        return match.accessible.Label(this.language.overridesScreen.AddPresetMessage);
     }
 }
 

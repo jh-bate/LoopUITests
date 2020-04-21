@@ -1,14 +1,16 @@
 const match = require('./match');
-const text = require('./text');
 
 class CarbEntryScreen {
+    constructor(language) {
+        this.language = language;
+    }
     /**
      * @example await carbs.Open();
      */
     async Open() {
         try {
             //assume we are starting from the open screen
-            await match.accessible.Button(text.carbEntryScreen.AddMeal).tap();
+            await match.accessible.Button(this.language.carbEntryScreen.AddMeal).tap();
         } catch (err) { } //catch and continue
     }
     /**
@@ -18,46 +20,46 @@ class CarbEntryScreen {
         await this.CancelHeaderButton().tap();
     }
     CancelHeaderButton() {
-        return match.accessible.ButtonBarButton(text.general.Cancel);
+        return match.accessible.ButtonBarButton(this.language.general.Cancel);
     }
     AddCarbEntryHeader() {
-        return match.accessible.Header(text.carbEntryScreen.AddCarbEntry);
+        return match.accessible.Header(this.language.carbEntryScreen.AddCarbEntry);
     }
     AmountConsumedLabel() {
-        return match.accessible.Label(text.carbEntryScreen.AmountConsumed);
+        return match.accessible.Label(this.language.carbEntryScreen.AmountConsumed);
     }
     DateLabel() {
-        return match.accessible.Label(text.carbEntryScreen.Date);
+        return match.accessible.Label(this.language.carbEntryScreen.Date);
     }
     FoodTypeLabel() {
-        return match.accessible.Label(text.carbEntryScreen.FoodType);
+        return match.accessible.Label(this.language.carbEntryScreen.FoodType);
     }
     AbsorptionTimeLabel() {
-        return match.accessible.Label(text.carbEntryScreen.AbsorptionTime);
+        return match.accessible.Label(this.language.carbEntryScreen.AbsorptionTime);
     }
     /**
      * @example  carbs.ContinueButton();
      */
     ContinueHeaderButton() {
-        return match.accessible.ButtonBarButton(text.general.Continue);
+        return match.accessible.ButtonBarButton(this.language.general.Continue);
     }
     /**
      * @example  carbs.DisabledContinueButton();
      */
     DisabledContinueHeaderButton() {
-        return match.accessible.DisabledButtonBarButton(text.general.Continue);
+        return match.accessible.DisabledButtonBarButton(this.language.general.Continue);
     }
     /**
      * @example  carbs.ContinueMainButton();
      */
     ContinueMainButton() {
-        return match.accessible.SetupButton(text.general.Continue);
+        return match.accessible.SetupButton(this.language.general.Continue);
     }
     /**
      * @example  carbs.DisabledContinueMainButton();
      */
     DisabledContinueMainButton() {
-        return match.accessible.DisabledSetupButton(text.general.Continue);
+        return match.accessible.DisabledSetupButton(this.language.general.Continue);
     }
     /**
      * @example await carbs.ContinueToBolus();
@@ -69,7 +71,7 @@ class CarbEntryScreen {
      * @example carbs.SaveWithoutBolusButton();
      */
     SaveWithoutBolusButton() {
-        return match.accessible.Button(text.carbEntryScreen.SaveWithoutBolusing);
+        return match.accessible.Button(this.language.carbEntryScreen.SaveWithoutBolusing);
     }
     /**
      * @example await carbs.SaveWithoutBolus();
@@ -89,7 +91,7 @@ class CarbEntryScreen {
      * @example carbs.AbsorptionTimeMessage();
      */
     AbsorptionTimeMessage() {
-        return match.accessible.Label(text.carbEntryScreen.AbsorptionMessage);
+        return match.accessible.Label(this.language.carbEntryScreen.AbsorptionMessage);
     }
     /**
      * @example await carbs.ExpectAbsorptionTimeMessage();

@@ -1,14 +1,16 @@
 const match = require('./match');
-const text = require('./text');
 
 class BolusScreen {
+    constructor(language) {
+        this.language = language;
+    }
     /**
      * @example await bolus.Open();
      */
     async Open() {
         try {
             //assume we are starting from the open screen
-            await match.accessible.Button(text.bolusScreen.Bolus).tap();
+            await match.accessible.Button(this.language.bolusScreen.Bolus).tap();
         } catch (err) { } //catch and continue
     }
     /**
@@ -18,7 +20,7 @@ class BolusScreen {
         await this.CancelHeaderButton().tap();
     }
     CancelHeaderButton() {
-        return match.accessible.ButtonBarButton(text.general.Cancel);
+        return match.accessible.ButtonBarButton(this.language.general.Cancel);
     }
     /**
      * @example await bolus.Deliver();
@@ -27,28 +29,28 @@ class BolusScreen {
         await this.DeliverButton().tap();
     }
     DeliverButton() {
-        return match.accessible.Button(text.bolusScreen.Deliver);
+        return match.accessible.Button(this.language.bolusScreen.Deliver);
     }
     DisabledDeliverButton() {
-        return match.accessible.DisabledButton(text.bolusScreen.Deliver);
+        return match.accessible.DisabledButton(this.language.bolusScreen.Deliver);
     }
     BolusHeader() {
-        return match.accessible.Header(text.bolusScreen.Bolus);
+        return match.accessible.Header(this.language.bolusScreen.Bolus);
     }
     BolusLabel() {
-        return match.accessible.Label(text.bolusScreen.Bolus);
+        return match.accessible.Label(this.language.bolusScreen.Bolus);
     }
     EnteredLabel() {
-        return match.accessible.Label(text.bolusScreen.Entered);
+        return match.accessible.Label(this.language.bolusScreen.Entered);
     }
     RecommendedLabel() {
-        return match.accessible.Label(text.bolusScreen.Recommended);
+        return match.accessible.Label(this.language.bolusScreen.Recommended);
     }
     /**
      * @example await bolus.ExpectCannotDeliverBolus();
      */
     async ExpectCannotDeliverBolus() {
-        await expect(match.accessible.DisabledButton(text.bolusScreen.Deliver)).toExist();
+        await expect(match.accessible.DisabledButton(this.language.bolusScreen.Deliver)).toExist();
     }
     /**
      * @param {number} units
