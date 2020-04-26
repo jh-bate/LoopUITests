@@ -3,17 +3,15 @@
   "version": "1.0.0",
   "scripts": {
     "test": "jest",
-    "e2e:test": "detox test e2e/smoke_test -c ios.sim.debug",
-    "regression:test": "detox test e2e/regression_test -c ios.sim.debug --debug-synchronization --take-screenshots all --record-logs all 2>&1 | tee ./artifacts/regression_test_output.txt",
-    "regression:ci": "detox test e2e/regression_test -c ios.sim.debug",
+    "all-test": "detox test -c ios.sim.debug 2>&1 | tee ./artifacts/all_test_output.txt",
+    "smoke-test": "detox test e2e/smoke -c ios.sim.debug 2>&1 | tee ./artifacts/smoke_test_output.txt",
+    "regression-test": "detox test e2e/regression -c ios.sim.debug 2>&1 | tee ./artifacts/regression_test_output.txt",
     "build": "detox build -c ios.sim.debug",
-    "e2e:ci": "npm run build && npm run e2e:test -- --cleanup",
-    "scenarios:ci": "npm run build && npm run scenarios:test -- --cleanup",
     "lint": "eslint ."
   },
   "devDependencies": {
-    "detox": "^16.1.1",
-    "jest": "^25.2.7"
+    "detox": "^16.2.1",
+    "jest": "^25.4.0"
   },
   "detox": {
     "configurations": {

@@ -129,6 +129,17 @@ const match = {
                     )).atIndex(pickerNumber);
         },
         /**
+         * @summary sets the pickers column to the given value
+         * @param {Integer} column
+         * @param {string} strValue
+         */
+        SetPickerValue(column, strValue) {
+            const currentPicker = 0;
+            return element(
+                by.type('UIPickerView')
+            ).atIndex(currentPicker).setColumnToValue(column, strValue)
+        },
+        /**
          * @summary returns alert items based on the given label
          * @param {string} label
          * @returns {Detox.Element}
