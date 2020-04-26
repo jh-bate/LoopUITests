@@ -18,7 +18,7 @@ error() {
   echo "Parameters:" >&2
   echo "  <build-root>      root of the build that contains the app" >&2
   echo "  <configuration>   detox configuration to use" >&2
-  echo "  <type>            type of tests to run" >&2
+  echo "  <type>            type of tests to run, 'regression' or 'smoke' " >&2
   exit 1
 }
 

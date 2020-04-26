@@ -18,7 +18,6 @@ var screenName = {
 
 /**
  * @summary insulin activity model
- * @example InsulinModel.Fiasp
  */
 var settingInsulinModel = {
     Walsh: 'Walsh',
@@ -38,56 +37,19 @@ var settingCGMModel = {
 
 /**
  * @summary Defaults that can be used to apply to all settings
- * @example await settings.Apply(SettingDefault)
  */
 var settingDefault = {
-    /**
-     * @summary DeliveryLimits: { maxBolus: '10.0', maxBasalRate: '3.0' }
-     */
     DeliveryLimits: { maxBolus: '10.0', maxBasalRate: '3.0' },
-    /**
-     * @summary BasalRates: [{ time: '12:00 AM', unitsPerHour: '0.1' }]
-     */
     BasalRates: [{ time: '12:00 AM', unitsPerHour: '0.1' }],
-    /**
-     * @summary SuspendThreshold: { value: '75' }
-     */
     SuspendThreshold: { value: '75' },
-    /**
-     * @summary InsulinModel: InsulinModel.RapidChildren
-     */
     InsulinModel: settingInsulinModel.RapidChildren,
-    /**
-     * @summary CarbRatios: [{ time: '12:00 AM', carbGramsPerInsulinUnit: '8' }]
-     */
     CarbRatios: [{ time: '12:00 AM', carbGramsPerInsulinUnit: '8' }],
-    /**
-     * @summary InsulinSensitivities: [{ time: '12:00 AM', bgValuePerInsulinUnit: '500' }]
-     */
     InsulinSensitivities: [{ time: '12:00 AM', bgValuePerInsulinUnit: '500' }],
-    /**
-     * @summary  CorrectionRanges: [{ time: '12:00 AM', min: '140', max: '160' }]
-     */
     CorrectionRanges: [{ time: '12:00 AM', min: '140', max: '160' }],
-    /**
-     * @summary  PreMealCorrectionRange: { min: '179', max: '180' }
-     */
     PreMealCorrectionRange: { min: '80', max: '180' },
-    /**
-     *  @summary  ClosedLoop: true
-     */
     ClosedLoop: true,
-    /**
-     *  @summary  AddCGMSimulator: true
-     */
     AddCGMSimulator: true,
-    /**
-     *  @summary  AddPumpSimulator: true
-     */
     AddPumpSimulator: true,
-    /**
-     * @summary  CGMSimulatorSettings: { modelData: { model: CGMModel.Constant, bgValues: ['142'] }, backfillHours: '3' }
-     */
     CGMSimulatorSettings: { modelData: { model: settingCGMModel.Constant, bgValues: ['142'] }, backfillHours: '3' }
 };
 
@@ -119,7 +81,6 @@ var settingCGMEffect = {
     RandomError: 'Random Error'
 };
 
-
 var setting = {
     type: settingType,
     default: settingDefault,
@@ -128,8 +89,53 @@ var setting = {
     cgmEffect: settingCGMEffect,
 };
 
+//TODO: account for units
+var limits = {
+    correctionRange: {
+        unitIncrement: 1,
+        max: {
+            maximum: 180,
+            lowerBoundary: 120,
+        },
+        min: {
+            minimum: 60,
+            upperBoundary: 70,
+        },
+    },
+    insulinSensitivities: {
+        unitIncrement: 1,
+        max: {
+            maximum: 500,
+            lowerBoundary: 400,
+        },
+        min: {
+            minimum: 10,
+            upperBoundary: 15,
+        },
+    },
+    delivery: {
+        bolus: {
+            unitIncrement: 0.1,
+            max: {
+                maximum: 30.0,
+                lowerBoundary: 20.0,
+            },
+            min: {
+                minimum: 0.0,
+            },
+        },
+        basal: {
+            unitIncrement: 0.1,
+            max: {
+                maximum: 35,
+            },
+        },
+    }
+};
+
 
 module.exports = {
+    limits,
     target,
     screenName,
     unit,

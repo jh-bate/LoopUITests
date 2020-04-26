@@ -1,19 +1,19 @@
-const { LoopTest, target, screenName } = require('../../src/index');
+const { Test, screenName } = require('../../src/index');
 
 describe('Closed loop is not allowed when settings are not applied for max basal', () => {
-    var loopTest;
-    it('should lauch with pump simulator', async () => {
-        loopTest = await new LoopTest.Builder(target.tidepool)
+    var test;
+    it('should launch with pump simulator', async () => {
+        test = new Test()
             .withSettings({ AddPumpSimulator: true })
-            .withStartScreen(screenName.settings)
-            .build();
+            .withStartScreen(screenName.settings);
+        await test.prepare();
     });
     it('setup without max basal applied', async () => {
         var expectations = async function () {
-            await loopTest.settingsScreen.HasAlert();
-            await loopTest.settingsScreen.DismissAlert();
+            await test.settingsScreen.HasAlert();
+            await test.settingsScreen.DismissAlert();
         };
-        await loopTest.settingsScreen.SetDeliveryLimits({ maxBolus: '10.0', maxBasalRate: '' }, expectations);
+        await test.settingsScreen.SetDeliveryLimits({ maxBolus: '10.0', maxBasalRate: '' }, expectations);
     });
 });
 

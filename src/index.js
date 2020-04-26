@@ -1,13 +1,11 @@
-const { LoopTest } = require('./loopTest');
-const { target,
-    screenName,
-    unit,
-    setting } = require('./properties');
+const { Test } = require('./test');
+const { target, screenName, unit, setting, limits } = require('./properties');
 
 module.exports = {
-    LoopTest,
+    Test,
     target,
     screenName,
     unit,
     setting,
+    limits,
 };
