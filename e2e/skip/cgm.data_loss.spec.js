@@ -1,31 +1,30 @@
-const { loop, setting, screenName, target } = require('../../src/index');
+const { loop, setting, screenName } = require('../../src/index');
 
 describe.skip('Closed loop is stopped when we have cgm data loss', () => {
-
-    var loopTest;
+    var test;
     afterAll(async () => {
-        await loopTest.removeData();
+        await test.removeData();
     });
     it('should setup with correct configuration', async () => {
-        loopTest = await new LoopTest.Builder(target.tidepool)
+        test = new test()
             .withScenario('flat_cgm_trace')
             .withSettings(setting.default)
-            .withStartScreen(screenName.home)
-            .build();
+            .withStartScreen(screenName.home);
+        await test.prepare();
     });
     it('should not be in closed loop mode', async () => {
-        await loopTest.homeScreen.ExpectLoopNotYetRun();
+        await test.homeScreen.ExpectLoopNotYetRun();
     });
     it('should advance the scenario so we are looping', async () => {
-        await loopTest.advanceScenario('1');
+        await test.advanceScenario('1');
     });
     it('should have no status alert', async () => {
-        await loopTest.homeScreen.ExpectSuccessfulLoop();
+        await test.homeScreen.ExpectSuccessfulLoop();
     });
     it('cgm data is turned off', async () => {
-        await loopTest.settingsScreen.SetCGMSimulatorSettings({ modelData: { bgValues: [], model: loop.settings.cgmModel.None } })
+        await test.settingsScreen.SetCGMSimulatorSettings({ modelData: { bgValues: [], model: loop.settings.cgmModel.None } })
     });
     it('should have CGM data status alert', async () => {
-        await loopTest.homeScreen.ExpectLoopStatusGlucoseDataAlert();
+        await test.homeScreen.ExpectLoopStatusGlucoseDataAlert();
     });
 });

@@ -1,20 +1,33 @@
-const { LoopTest, screenName, target } = require('../../src/index');
+const { Test, screenName, limits } = require('../../src/index');
 
 describe('guardrail settings max basal rate', () => {
-    var loopTest;
+    var test;
     it('should setup with correct configuration', async () => {
-        loopTest = await new LoopTest.Builder(target.tidepool)
+        test = new Test()
             .withSettings({ AddPumpSimulator: true })
-            .withStartScreen(screenName.settings)
-            .build();
+            .withStartScreen(screenName.settings);
+        await test.prepare();
+    });
+    it('set below maximum units with no warning', async () => {
+        await test.settingsScreen.SetDeliveryLimits({
+            maxBolus: '1.0',
+            maxBasalRate: limits.delivery.basal.max.maximum - limits.delivery.basal.unitIncrement
+        });
+        //TODO assert NO warning
     });
 
-    it('set 35 units', async () => {
-        await loopTest.settingsScreen.SetDeliveryLimits({ maxBolus: '1.0', maxBasalRate: '35.0' });
+    it('set at maximum units with warning', async () => {
+        await test.settingsScreen.SetDeliveryLimits({
+            maxBolus: '1.0',
+            maxBasalRate: limits.delivery.basal.max.maximum
+        });
         //TODO assert on warning
     });
-    it('cannot set 36 units', async () => {
-        await loopTest.settingsScreen.SetDeliveryLimits({ maxBolus: '1.0', maxBasalRate: '36.0' });
+    it('cannot above maximum', async () => {
+        await test.settingsScreen.SetDeliveryLimits({
+            maxBolus: '1.0',
+            maxBasalRate: limits.delivery.basal.max.maximum + limits.delivery.basal.unitIncrement
+        });
         //TODO assert warning
     });
 });

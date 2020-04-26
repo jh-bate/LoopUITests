@@ -1,37 +1,36 @@
-const { LoopTest, setting, target } = require('../../src/index');
+const { Test, setting } = require('../../src/index');
 
 describe('Bolus not given when settings are applied with correction ranges below suspend threshold', () => {
-
-    var loopTest;
+    var test;
     it('should setup with correct configuration with delivery limits', async () => {
         let applySettings = setting.default;
         applySettings.CorrectionRanges = [{ time: '12:00 AM', min: '120', max: '145' }];
         applySettings.SuspendThreshold = { value: '150' };
 
-        loopTest = await new LoopTest.Builder(target.tidepool)
+        test = new Test()
             .withScenario('flat_cgm_trace')
             .withSettings(applySettings)
             .withStartScreen(screenName.settings)
-            .build();
+        await test.prepare();
     });
 
     afterAll(async () => {
-        await loopTest.removeData();
+        await test.removeData();
     });
     it('should not be in closed loop mode', async () => {
-        await loopTest.homeScreen.ExpectLoopNotYetRun();
+        await test.homeScreen.ExpectLoopNotYetRun();
     });
     it('should show error that indicates why not in closed loop mode', async () => {
         //TODO: confirm this??
-        await loopTest.homeScreen.ExpectLoopStatusCarbsAlert();
+        await test.homeScreen.ExpectLoopStatusCarbsAlert();
     });
     it('should only enter carbs', async () => {
-        await loopTest.carbEntryScreen.Open();
-        await loopTest.carbEntryScreen.SetCarbs('30');
+        await test.carbEntryScreen.Open();
+        await test.carbEntryScreen.SetCarbs('30');
     });
     it('should then only be given option to save without bolus and warn about predicted glucose', async () => {
-        await loopTest.carbEntryScreen.ContinueToBolus();
-        await loopTest.carbEntryScreen.ExpectPredictedGlucoseWarning('110 mg/dL');
-        await loopTest.carbEntryScreen.SaveWithoutBolus();
+        await test.carbEntryScreen.ContinueToBolus();
+        await test.carbEntryScreen.ExpectPredictedGlucoseWarning('110 mg/dL');
+        await test.carbEntryScreen.SaveWithoutBolus();
     });
 });

@@ -18,15 +18,15 @@ All tests
 
 ### Smoke test
 
-`detox test e2e/smoke_test -c ios.sim.debug`
+`detox test e2e/smoke -c ios.sim.debug`
 
 ### Regression test
 
-`detox test e2e/regression_test -c ios.sim.debug`
+`detox test e2e/regression -c ios.sim.debug`
 
 ## Debugging
 
-`detox test e2e/smoke_test -c ios.sim.debug 2>&1 | tee ./artifacts/test_output.txt`
+`detox test e2e/smoke -c ios.sim.debug 2>&1 | tee ./artifacts/smoketest_output.txt`
 
  - then you can search in `./artifacts/test_output.txt` file for test output including errors or mismatches
 

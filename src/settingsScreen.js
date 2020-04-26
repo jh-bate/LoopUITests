@@ -5,10 +5,15 @@ const config = require('./config');
 const { setting } = require('./properties');
 
 class SettingsScreen {
+    startAndReturnToSettings() {
+        return {
+            fromSettings: true,
+            toSettings: true,
+        }
+    }
     constructor(language) {
         this.language = language;
     }
-
     async  _setCGMEffect(effect) {
         await match.accessible.Label(effect).tap();
         switch (effect) {
@@ -26,7 +31,6 @@ class SettingsScreen {
                 break;
         }
     }
-
     async _setCGMModel(modelData) {
         if (modelData) {
             await match.accessible.Label(modelData.model).tap();
@@ -75,52 +79,27 @@ class SettingsScreen {
             }
         }
     }
-
-    /**
-     * @example await settings.Open();
-     */
     async Open() {
         await match.accessible.ButtonBarButton(this.language.settingsScreen.Settings).tap();
     }
-    /**
-     * @example await settings.Close();
-     */
     async Close() {
         await this.DoneButton().tap();
     }
-    /**
-     * @example settings.DoneButton();
-     */
     DoneButton() {
         return match.accessible.ButtonBarButton(this.language.general.Done);
     }
-    /**
-     * @example settings.ConfigurationHeader();
-     */
     ConfigurationHeader() {
         return match.accessible.Header(this.language.settingsScreen.Configuration);
     }
-    /**
-     * @example settings.ServicesHeader();
-     */
     ServicesHeader() {
         return match.accessible.Header(this.language.settingsScreen.Services);
     }
-    /**
-     * @example settings.PumpHeader();
-     */
     PumpHeader() {
         return match.accessible.Header(this.language.settingsScreen.Pump);
     }
-    /**
-     * @example settings.ContinuousGlucoseMonitorHeader();
-     */
     ContinuousGlucoseMonitorHeader() {
         return match.accessible.Header(this.language.settingsScreen.ContinuousGlucoseMonitor);
     }
-    /**
-     * @example settings.SettingsHeader();
-     */
     SettingsHeader() {
         return match.accessible.Header(this.language.settingsScreen.Settings);
     }
@@ -175,8 +154,7 @@ class SettingsScreen {
     }
     /**
      * @summary helper function to set settings by applying configured values
-     * @param  {SettingDefault} values list of settings that will not be applied
-     * @example await settings.Apply(SettingDefault)
+     * @param  values list of settings that will not be applied
      */
     async Apply(values) {
         if (values.AddCGMSimulator) {
@@ -192,7 +170,7 @@ class SettingsScreen {
         await this.SetDeliveryLimits(values.DeliveryLimits);
         await this.SetInsulinModel(values.InsulinModel);
         await this.SetCarbRatios(values.CarbRatios);
-        await this.SetInsulinSensitivities(values.InsulinSensitivities);
+        await this.SetInsulinSensitivities(values.InsulinSensitivities, { fromSettings: true, toSettings: true });
 
         if (values.ClosedLoop) {
             if (values.ClosedLoop == true) {
@@ -205,7 +183,6 @@ class SettingsScreen {
     /**
      * @summary basal rates to be set. NOTE: it is assumed that the rates are given in order of time
      * @param {Array} rates [{time:'12:00 AM', unitsPerHour:'0.1'}]
-     * @example await settings.SetBasalRates([{time:'12:00 AM', unitsPerHour:'0.1'},{time:'12:30 AM', unitsPerHour:'0.3'}])
      */
     async SetBasalRates(rates) {
         if (rates) {
@@ -224,7 +201,6 @@ class SettingsScreen {
     /**
      * @summary set the suspend threshold in mg/dL
      * @param {object} threshold e.g. '150'
-     * @example await settings.SetSuspendThreshold({value:150});
      */
     async SetSuspendThreshold(threshold) {
         if (threshold) {
@@ -237,7 +213,6 @@ class SettingsScreen {
     /**
      * @param {object} limits { maxBasalRate string, maxBolus string }
      * @param {function} additionalExpectations optional, function executed before exiting if it exists
-     * @example await settings.SetDeliveryLimits({maxBasalRate:'1.0', maxBolus:'10.0'}, checks)
      */
     async SetDeliveryLimits(limits, additionalExpectations) {
         if (limits) {
@@ -247,16 +222,15 @@ class SettingsScreen {
                 //sometimes there are multiples?
                 await this.DeliveryLimitsLabel().atIndex(1).tap();
             }
-
             //TODO: using atIndex, need a better way to select these
             await match.UIEditableTextField().atIndex(0).clearText();
-            await match.UIEditableTextField().atIndex(0).typeText(limits.maxBasalRate);
+            await match.UIEditableTextField().atIndex(0).typeText(String(limits.maxBasalRate));
             await match.UIEditableTextField().atIndex(0).tapReturnKey();
-            await expect(match.UIEditableTextField().atIndex(0)).toHaveText(limits.maxBasalRate);
+            await expect(match.UIEditableTextField().atIndex(0)).toHaveText(String(limits.maxBasalRate));
             await match.UIEditableTextField().atIndex(1).clearText();
-            await match.UIEditableTextField().atIndex(1).typeText(limits.maxBolus);
+            await match.UIEditableTextField().atIndex(1).typeText(String(limits.maxBolus));
             await match.UIEditableTextField().atIndex(1).tapReturnKey();
-            await expect(match.UIEditableTextField().atIndex(1)).toHaveText(limits.maxBolus);
+            await expect(match.UIEditableTextField().atIndex(1)).toHaveText(String(limits.maxBolus));
             await match.accessible.Label(this.language.settingsScreen.SaveToSimulator).tap();
             if (additionalExpectations) {
                 await additionalExpectations();
@@ -278,7 +252,6 @@ class SettingsScreen {
     /**
     * @summary ratios be set. NOTE: it is assumed that the ratios are given in order of time
     * @param {Array} ratios [{time:'12:00 AM', carbGramsPerInsulinUnit:'8'}]
-    * @example await settings.SetCarbRatios([{time:'12:00 AM', carbGramsPerInsulinUnit:'8'},{time:'12:30 AM', carbGramsPerInsulinUnit:'7'}])
     */
     async SetCarbRatios(ratios) {
         if (ratios) {
@@ -302,12 +275,16 @@ class SettingsScreen {
     /**
     * @summary Sensitivities be set. NOTE: it is assumed that the Sensitivities are given in order of time
     * @param {Array} sensitivities [{time:'12:00 AM', bgValuePerInsulinUnit:'500'}]
-    * @example await settings.SetInsulinSensitivities([{time:'12:00 AM', bgValuePerInsulinUnit:'500'},{time:'12:30 AM', bgValuePerInsulinUnit:'499'}])
+    * @param {Object} properties
+    * @param {boolean} properties.fromSettings
+    * @param {boolean} properties.toSettings
     */
-    async SetInsulinSensitivities(sensitivities) {
+    async SetInsulinSensitivities(sensitivities, properties) {
         if (sensitivities) {
-            await this.ScrollToBottom();
-            await this.InsulinSensitivitiesLabel().atIndex(1).tap();
+            if (properties && properties.fromSettings) {
+                await this.ScrollToBottom();
+                await this.InsulinSensitivitiesLabel().atIndex(1).tap();
+            }
             for (let index = 0; index < sensitivities.length; index++) {
                 const sensitivity = sensitivities[index];
                 await match.accessible.ButtonBarButton(this.language.general.Add).tap();
@@ -318,14 +295,16 @@ class SettingsScreen {
                 await match.accessible.SetPickerValue(1, `${sensitivity.bgValuePerInsulinUnit} ${config.insulinSensitivitiesUnits}`);
             }
             await match.accessible.Label(this.language.general.Save).tap();
-            await this._exitSetting();
-            await this.ScrollToTop();
+
+            if (properties && properties.toSettings) {
+                await this._exitSetting();
+                await this.ScrollToTop();
+            }
         }
     }
     /**
      * @summary correct ranges to be set. NOTE: it is assumed that the ranges are given in order of time
      * @param {Array} ranges e.g. [{ time: '12:00 AM', min: '80', max: '150' }];
-     * @example await settings.SetCorrectionRanges([{ time: '12:00 AM', min: '80', max: '150' },{ time: '12:30 AM', min: '80', max: '130' }])
      */
     async SetCorrectionRanges_v2(ranges) {
         const minimumColumn = 3;
@@ -350,7 +329,6 @@ class SettingsScreen {
     /**
      * @summary correct ranges to be set. NOTE: it is assumed that the ranges are given in order of time
      * @param {Array} ranges e.g. [{ time: '12:00 AM', min: '80', max: '150' }];
-     * @example await settings.SetCorrectionRanges([{ time: '12:00 AM', min: '80', max: '150' },{ time: '12:30 AM', min: '80', max: '130' }])
      */
     async SetCorrectionRanges(ranges) {
         if (ranges) {
@@ -391,8 +369,7 @@ class SettingsScreen {
      * @param {Object} preMeal e.g. { min: '80', max: '150' };
      * @param {string} preMeal.min - the minimum value
      * @param {string} preMeal.max - the maximum value
-     * @example await settings.SetPreMealCorrectionRange({ min: '80', max: '150' })
-     */
+      */
     async SetPreMealCorrectionRange(preMeal) {
         if (preMeal) {
             const glucosePreMealOverridePickerColumns = {
@@ -412,9 +389,6 @@ class SettingsScreen {
             await this._exitSetting();
         }
     }
-    /**
-     * @summary turn on closed loop mode
-     */
     async SetClosedLoop() {
         await this.ScrollToTop();
         //NOTE: not elegant but try catch approach is used by others in detox tests
@@ -427,9 +401,6 @@ class SettingsScreen {
             await expect(this.ClosedLoopButton()).toHaveValue('1');
         }
     }
-    /**
-     * @summary set to open loop mode
-     */
     async SetOpenLoop() {
         await this.ScrollToTop();
         //NOTE: not elegant but try catch approach is used by others in detox tests
@@ -442,43 +413,27 @@ class SettingsScreen {
             await expect(this.ClosedLoopButton()).toHaveValue('0');
         }
     }
-    /**
-     * @summary set to open loop mode
-     * @example await settings.IssueReport();
-     */
     async IssueReport() {
         await this.IssueReportLabel().tap();
         await expect(match.accessible.Header(this.language.settingsScreen.IssueReport)).toBeVisible();
         await this._exitSetting();
     }
-    /**
-     * @summary add CGM Simulator
-     */
     async AddCGMSimulator() {
         await this.AddCGMLabel().tap();
         await match.accessible.Button(this.language.settingsScreen.Simulator).tap();
     }
-    /**
-     * @summary Remove CGM
-     */
     async RemoveCGM() {
         await this.ScrollToTop();
         await this._selectCGMSimulator();
         await match.accessible.Label(this.language.settingsScreen.DeleteCGM).tap();
         await match.accessible.Label(this.language.settingsScreen.DeleteCGM).atIndex(1).tap();
     }
-    /**
-     * @summary Remove CGM Data
-     */
     async RemoveCGMData() {
         await this.ScrollToBottom();
         //TODO static text and not a button?
         await match.accessible.Label(this.language.settingsScreen.DeleteCGMData).atIndex(0).tap();
         await match.accessible.Label(this.language.settingsScreen.DeleteCGMData).atIndex(1).tap();
     }
-    /**
-     * @summary add Pump Simulator
-     */
     async AddPumpSimulator() {
         try {
             await this.AddPumpLabel().atIndex(1).tap();
@@ -488,9 +443,6 @@ class SettingsScreen {
         await match.accessible.Button(this.language.settingsScreen.Simulator).tap();
         await match.accessible.Button(this.language.general.Continue).tap();
     }
-    /**
-     * @summary Remove Pump
-     */
     async RemovePump() {
         await this.ScrollToTop();
         await this._selectPumpSimulator();
@@ -498,9 +450,6 @@ class SettingsScreen {
         await match.accessible.Label(this.language.settingsScreen.DeletePump).tap();
         await match.accessible.Label(this.language.settingsScreen.DeletePump).atIndex(1).tap();
     }
-    /**
-     * @summary Remove Pump Data
-     */
     async RemovePumpData() {
         await this.ScrollToBottom();
         //TODO static text and not a button?
@@ -509,9 +458,9 @@ class SettingsScreen {
     }
     /**
      * @summary set the cgm simulator effect
-     * @param {object} settings
+     * @param {Object} settings
      * @param {CGMEffect} settings.effect
-     * @param {object} settings.modelData
+     * @param {Object} settings.modelData
      * @param {CGMModel} settings.modelData.model
      * @param {Array} settings.modelData.bgValues
      * @param {string} settings.backfillHours
